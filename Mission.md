@@ -8,8 +8,7 @@
 - Xigncode3 (Wellbia)
 ---
 ### Main Focus
-- Riot Games' bounty program for Vanguard
-- https://hackerone.com/riot?type=team
+- Riot Games' bounty program for Vanguard [ https://hackerone.com/riot?type=team ]
 ---
 ### Method
 - Reverse engineer by first creating my own 
