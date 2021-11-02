@@ -1,6 +1,6 @@
 # Mission
 ## **M5 Anti-Cheat System**
-### *Objective:* Develop M5 Anti-Cheat System and explore potential vulnerabilities in existing anti-cheat drivers.
+### *Objective:* Develop M5 Anti-Cheat System and explore potential vulnerabilities in existing anti-cheat drivers
 ---
 ### Existing Driver Examples:
 - Vanguard (Riot Games)
