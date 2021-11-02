@@ -1,6 +1,6 @@
 # Mission
 ## **M5 Anti-Cheat System**
-### *Objective:* Develop M5 Anti-Cheat System 
+### *Objective:* Develop M5 Anti-Cheat System and explore potential vulnerabilities in existing anti-cheat drivers.
 ---
 ### Existing Driver Examples:
 - Vanguard (Riot Games)
@@ -9,8 +9,9 @@
 - BattlEye (BattleEye)
 - Xigncode3 (Wellbia)
 ---
-### Main Focus
+### Explore:
 - Riot Games' bounty program for Vanguard [ https://hackerone.com/riot?type=team ]
+- Vanguard Source Code
 ---
 ### Method
 - Reverse engineer by first creating my own 
