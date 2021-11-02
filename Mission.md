@@ -14,8 +14,9 @@
 ---
 ### Method
 - Reverse engineer by first creating my own 
-  - Microsoft KMDF Kernel Driver
-  - Unreal Game Engine
+  - Microsoft Kernel Driver
+  - Unreal Engine
+  - Game
   - EOS (Epic Online Services)
   - Microsoft Azure
 ---
